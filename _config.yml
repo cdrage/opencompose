@@ -1,0 +1,12 @@
+title: OpenCompose
+project_name: OpenCompose
+description: >
+  The goal of OpenCompose is to make it easier for developers to on-board to Kubernetes. OpenCompose is a declarative higher level abstraction for specific Kubernetes resources.
+
+repository_url: https://github.com/redhat-developer/opencompose
+repository_shorthand: redhat-developer/opencompose
+
+author_name: The Red Hat Developer Group
+author_url: https://github.com/redhat-developer/opencompose
+
+markdown: kramdown
