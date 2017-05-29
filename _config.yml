@@ -6,7 +6,7 @@ description: >
 repository_url: https://github.com/redhat-developer/opencompose
 repository_shorthand: redhat-developer/opencompose
 
-author_name: The Red Hat Developer Group
+author_name: the Red Hat Developer Group
 author_url: https://github.com/redhat-developer/opencompose
 
 markdown: kramdown
